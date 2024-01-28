@@ -82,6 +82,7 @@ print(f"TensorFlow has access to the following devices:\n{tf.config.list_physica
 
 # See TensorFlow version
 print(f"TensorFlow version: {tf.__version__}")
+```
 
 That's It!!
 You should now be able to run all your ML models on Apple's GPU.

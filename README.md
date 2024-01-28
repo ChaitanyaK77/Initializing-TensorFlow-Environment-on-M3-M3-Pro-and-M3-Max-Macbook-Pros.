@@ -85,5 +85,7 @@ print(f"TensorFlow version: {tf.__version__}")
 ```
 
 That's It!!
+
 You should now be able to run all your ML models on Apple's GPU.
+
 Thank You.
